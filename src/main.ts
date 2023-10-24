@@ -1,4 +1,6 @@
 import './style.css'
+// runs the autoinvocated function
+import './clean-code/07-classes-tarea'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
